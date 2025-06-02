@@ -5,7 +5,8 @@ Korean_ChartQA는 차트 이미지 또는 표 데이터를 기반으로 한국�
 
 
 ## 주요 파일 및 폴더 구조
-Korean_ChartQA/
+
+Korean_ChartQA
 ├── Query_Answer_sample.json
 ├── chart_gpt_query_make.py
 └── README.md
